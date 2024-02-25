@@ -13,7 +13,9 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("/Images/back2.jpeg") ;
+/*     background-image: url("/Images/back2.jpeg") ; */
+     background-color: rgb(101, 201,123);
+    
     z-index: 3;
     background-repeat: no-repeat;
     background-size: cover;
